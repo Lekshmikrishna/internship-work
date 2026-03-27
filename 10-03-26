@@ -1,0 +1,42 @@
+Day 05 – Internship Log
+
+Session Attended
+Attended a session on RCM (Revenue Cycle Management), ETL process, and Docker.
+
+Topics Covered
+* Introduction to RCM and how hospitals and insurance systems work
+* Understanding how claims are processed and tracked
+* Basics of ETL (Extract, Transform, Load) process
+* Introduction to cloud storage (GCP buckets)
+* Overview of MongoDB and data storage
+* Introduction to Docker and its purpose
+
+Key Learnings
+     RCM (Revenue Cycle Management)
+* Hospitals send claims to insurance companies
+* Payments are tracked and managed through the system
+* Rejected or pending claims are followed up
+* Each claim is tracked using versions
+
+     ETL Process
+* Extract data from CSV files or other sources
+* Transform data by cleaning and applying logic
+* Load processed data into database
+* Remove invalid records and standardize data
+
+     Data Storage
+* Data is stored in databases like MongoDB
+* Large data is handled using structured and unstructured formats
+
+     Docker
+* Docker is used to package the entire project with dependencies
+* Helps run the project in any system without setup issues
+* Docker image contains code, libraries, and environment
+* Used to deploy pipeline in cloud
+
+Learning Outcome
+* Understood how real-time projects handle large data
+* Learned basic workflow of ETL pipeline
+* Gained idea about Docker usage in projects
+* Understood how data moves from source to database
+
