@@ -1,0 +1,26 @@
+Day 08 – Internship Log
+
+Tasks Completed
+* Completed and submitted assigned tasks
+* Practiced SQL and Python exercises
+* Worked on frontend application with Docker setup
+
+Assignment
+      SQL (Practice)
+* Data retrieval using WHERE, LIKE, IN
+* Logical conditions using AND
+      Python (Practice)
+* Variables and data types
+* Basic calculations (area, perimeter)
+* Conditional statements (if/else)
+* Loops (multiplication table)
+      Frontend + Docker Task
+* Created simple frontend application (button interaction)
+* Ran application locally on browser
+* Created Dockerfile
+* Built Docker image and ran container locally
+
+Learning Outcome
+* Strengthened SQL and Python fundamentals
+* Understood frontend to Docker workflow
+* Gained hands-on experience in running applications in containers
