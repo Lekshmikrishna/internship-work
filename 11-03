@@ -1,0 +1,45 @@
+Day 07 – Internship Log
+
+Tasks Completed
+* Continued learning Docker concepts and workflow
+* Practiced building and running Docker containers
+* Understood configuration issues in different environments
+* Started working on frontend application assignment
+
+Topics Covered
+     Docker Workflow
+* Understood Docker working directory (WORKDIR)
+* Learned how package.json and package-lock.json are used for installing dependencies
+* Understood why node_modules should not be pushed to Git
+
+* Learned Docker build steps:-
+  * Setting working directory
+  * Copying dependency files
+  * Installing dependencies
+  * Copying source code
+  * Running the application
+
+      Docker Practice
+* Built Docker image
+* Ran container from image
+* Performed port mapping (container port to localhost)
+* Understood difference between image and container
+* Explored container logs and browser access
+      Configuration & Environment Understanding
+* Observed issue with same configuration used across Dev and Stage environments
+* Understood impact of incorrect configurations
+* Learned importance of environment-specific configuration
+* Learned better structure using separate folders and configuration files
+
+Assignment
+* Create a simple frontend application:
+  * Button click displays message / emoji / image
+  * Run application locally
+  * Create Dockerfile
+  * Build Docker image
+  * Run container locally
+
+Learning Outcome
+* Understood complete workflow: local development → Docker → container execution
+* Learned importance of proper configuration management
+* Gained practical exposure to Docker usage
