@@ -1,0 +1,39 @@
+# Day 05 – Internship Log
+
+## Tasks Completed
+
+* Learned the difference between Git and GitHub
+* Explored different repository hosting platforms
+* Understood how version control is used in real-world projects
+
+## Topics Covered
+
+### Git vs GitHub
+
+* Git is a version control system used to track changes in code
+* GitHub is a platform used to store and manage Git repositories online
+* Git works locally, while GitHub enables collaboration and remote access
+
+### Repository Platforms
+
+* GitLab – Provides repository hosting with built-in CI/CD features
+* Bitbucket – Integrates well with Atlassian tools and supports Git repositories
+* Azure Repos – Microsoft’s service for version control and project management
+* AWS CodeCommit – Cloud-based repository service by AWS
+
+## Tools Used
+
+* Git
+* GitHub
+* GitLab
+* Bitbucket
+* Azure Repos
+* AWS CodeCommit
+
+## Learning Outcome
+
+* Clearly understood the difference between Git and GitHub
+* Learned how different platforms are used for hosting and collaboration
+* Gained awareness of tools used by organizations for version control
+
+
